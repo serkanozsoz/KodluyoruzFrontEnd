@@ -1,4 +1,4 @@
-# Html-101 Ödev-1
+# Html-101 Ödev-2
 Bu repoda Kodluyoruz Front-End Html eğitimi kapsamında ödev-2 mevcuttur.
 ## Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 ```
