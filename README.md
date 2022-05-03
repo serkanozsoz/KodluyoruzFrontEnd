@@ -1,5 +1,5 @@
 # Kodluyoruz Front-End-101
-Bu repoda Kodluyoruz Front-End eğitimi kapsamında çeşitli ödevler mevcuttur.
+Bu repoda Kodluyoruz Front-End eğitimi kapsamında çeşitli alıştırmalar ve ödevler mevcuttur.
 
 
 ## <a href="https://github.com/serkanozsoz/KodluyoruzFrontEnd/tree/master/HtmlHomework1">1. Ödev-1(İlk web sayfası)</a>
