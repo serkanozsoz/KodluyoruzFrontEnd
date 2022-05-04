@@ -25,4 +25,4 @@ Herkese merhaba arkadaşlar kanalımıza hoş geldiniz, bugün HTML sayfamıza h
 ![444](https://user-images.githubusercontent.com/100076932/166732360-21f47d9a-fd46-47f1-85fb-365cfec3f1e1.png)
 
 ### About Us Page
-![555](https://user-images.githubusercontent.com/100076932/166732399-09282778-eb5d-4f0d-8905-a2bfe620a17e.png)
+![555](https://user-images.githubusercontent.com/100076932/166734391-f1cc455c-d964-44e7-94ce-8642e5b91673.png)
