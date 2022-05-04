@@ -10,7 +10,7 @@ Bu repoda Kodluyoruz Front-End eğitimi kapsamında çeşitli alıştırmalar ve
 ![111](https://user-images.githubusercontent.com/100076932/166513701-8734d5db-67ca-40d4-92d1-ea53ee70805b.png)
 ## <a href="https://github.com/serkanozsoz/KodluyoruzFrontEnd/tree/master/HtmlLastProject">4. HtmlLastProject(Çikolatalı Küp Tarifi</a>
 ![222](https://user-images.githubusercontent.com/100076932/166552166-66eb1bbe-cc0c-4a3f-b197-5099561c9ca9.png)
-## <a href="https://github.com/serkanozsoz/KodluyoruzFrontEnd/tree/master/CssHomework1">5. Css Homework-1</a>
+## <a href="https://github.com/serkanozsoz/KodluyoruzFrontEnd/tree/master/CssHomework1">5. Css Homework-1(Music Store)</a>
 ![444](https://user-images.githubusercontent.com/100076932/166732360-21f47d9a-fd46-47f1-85fb-365cfec3f1e1.png)
 
 
